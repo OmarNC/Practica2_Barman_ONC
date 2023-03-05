@@ -7,11 +7,11 @@
 
 import Foundation
 
-struct Bebida: Codable {
+struct BebidaJSON: Codable {
     let directions : String
     let ingredients : String
     let name : String
     let img: String
 }
 
-typealias Bebidas = [Bebida]
+typealias BebidasJSON = [BebidaJSON]

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "49f-s2-xlm"; */
+"49f-s2-xlm.text" = "Title";
+
+/* Class = "UILabel"; text = "Nombre:"; ObjectID = "66h-wz-p0F"; */
+"66h-wz-p0F.text" = "Nombre:";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "LiQ-te-QZn"; */
+"LiQ-te-QZn.placeholder" = "Nombre";
+
+/* Class = "UIBarButtonItem"; title = "Import"; ObjectID = "bbw-i7-xdD"; */
+"bbw-i7-xdD.title" = "Import";
+
+/* Class = "UILabel"; text = "Ingredientes:"; ObjectID = "cuT-i0-IlY"; */
+"cuT-i0-IlY.text" = "Ingredientes:";
+
+/* Class = "UILabel"; text = "Barman"; ObjectID = "oyY-PN-i9I"; */
+"oyY-PN-i9I.text" = "Barman";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "ucB-oE-Svy"; */
+"ucB-oE-Svy.title" = "Edit";
+
+/* Class = "UILabel"; text = "Instrucciones:"; ObjectID = "uon-mh-Q6q"; */
+"uon-mh-Q6q.text" = "Instrucciones:";

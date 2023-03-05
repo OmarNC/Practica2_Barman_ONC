@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Practica2_Barman_ONC
+
+  Created by Omar Nieto on 02/03/23.
+  
+*/
+
+"BUTTON_EDIT" = "Editar";
+"BUTTON_DONE" = "Hecho";
+"ALERT_TITLE_BORRAR" = "Borrar" ;
+
+"ALERT_OK" = "OK" ;
+"ALERT_TITLE_VACIO" = "Campo Nombre Vacío" ;
+"ALERT_MENSSAGE_VACIO" = "El campo nombre no debe estar vacío" ;
+
+"DOWNLOAD_BTN_ALERT_TITLE" = "Activar Internet";
+"DOWNLOAD_BTN_ALERT_MESSAGE" = "Debe habilitar una conexión a Internet para descargar las recetas de bebidas por defecto";
+
+"DOWNLOAD_BTN_ALERT_TITLE2" = "Error al descargar";
+"DOWNLOAD_BTN_ALERT_MESSAGE2" = "Ha ocurrido un error al descargar las recetas de la bebidas";
+
+"DOWNLOAD_BTN_ALERT_TITLE3" = "Error al descargar";
+"DOWNLOAD_BTN_ALERT_MESSAGE3" = "Ha ocurrido un error al descargar la imagen";
+
+"PHOTO_BTN_ALERT_TITLE" = "Camara no está disponible";
+"PHOTO_BTN_ALERT_MESSAGE" = "El uso de la camara no está disponible";
+
+
+"PHOTO_BTN_ALERT_TITLE2" = "Sin permiso del uso de camara";
+"PHOTO_BTN_ALERT_MESSAGE2" = "Es necesario conceder el permiso de la camara para tomar fotos de la bebidas";
+

@@ -9,22 +9,33 @@
 /* Begin PBXBuildFile section */
 		D3E5FE7A29B05E880056065D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE7929B05E880056065D /* AppDelegate.swift */; };
 		D3E5FE7C29B05E880056065D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE7B29B05E880056065D /* SceneDelegate.swift */; };
-		D3E5FE7E29B05E880056065D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE7D29B05E880056065D /* ViewController.swift */; };
+		D3E5FE7E29B05E880056065D /* BebidaDetalleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE7D29B05E880056065D /* BebidaDetalleViewController.swift */; };
 		D3E5FE8129B05E880056065D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FE7F29B05E880056065D /* Main.storyboard */; };
 		D3E5FE8429B05E880056065D /* Practica2_Barman_ONC.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE8229B05E880056065D /* Practica2_Barman_ONC.xcdatamodeld */; };
 		D3E5FE8629B05E890056065D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FE8529B05E890056065D /* Assets.xcassets */; };
 		D3E5FE8929B05E890056065D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FE8729B05E890056065D /* LaunchScreen.storyboard */; };
 		D3E5FE9229B082260056065D /* Network.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3E5FE9129B082260056065D /* Network.framework */; };
 		D3E5FE9429B1C1F30056065D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE9329B1C1F30056065D /* TableViewController.swift */; };
-		D3E5FE9729B1C5370056065D /* Bebida.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE9629B1C5370056065D /* Bebida.swift */; };
 		D3E5FE9A29B2474F0056065D /* MonitorRed.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FE9929B2474F0056065D /* MonitorRed.swift */; };
+		D3E5FEA029B2E70A0056065D /* wine-bar-100.png in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FE9F29B2E70A0056065D /* wine-bar-100.png */; };
+		D3E5FEA429B2E8000056065D /* Coctel3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FEA129B2E8000056065D /* Coctel3.jpg */; };
+		D3E5FEA529B2E8000056065D /* Coctel1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FEA229B2E8000056065D /* Coctel1.jpg */; };
+		D3E5FEA629B2E8000056065D /* Coctel2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FEA329B2E8000056065D /* Coctel2.jpg */; };
+		D3E5FEA929B2ECCA0056065D /* tropical-drink-48.png in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FEA829B2ECCA0056065D /* tropical-drink-48.png */; };
+		D3E5FEB029B2F8E80056065D /* BebidaDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FEAF29B2F8E80056065D /* BebidaDataManager.swift */; };
+		D3E5FEB329B322220056065D /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FEB229B322220056065D /* Helper.swift */; };
+		D3E5FEB629B3DABD0056065D /* Bebida+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FEB429B3DABD0056065D /* Bebida+CoreDataClass.swift */; };
+		D3E5FEB729B3DABD0056065D /* Bebida+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FEB529B3DABD0056065D /* Bebida+CoreDataProperties.swift */; };
+		D3E5FEBC29B3F92C0056065D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D3E5FEBE29B3F92C0056065D /* Localizable.strings */; };
+		D3E5FEC129B4154B0056065D /* BebidaJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E5FEC029B4154B0056065D /* BebidaJSON.swift */; };
+		D3E5FEC329B473AD0056065D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3E5FEC229B473AC0056065D /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D3E5FE7629B05E880056065D /* Practica2_Barman_ONC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practica2_Barman_ONC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3E5FE7929B05E880056065D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D3E5FE7B29B05E880056065D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D3E5FE7D29B05E880056065D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D3E5FE7D29B05E880056065D /* BebidaDetalleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BebidaDetalleViewController.swift; sourceTree = "<group>"; };
 		D3E5FE8029B05E880056065D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D3E5FE8329B05E880056065D /* Practica2_Barman_ONC.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Practica2_Barman_ONC.xcdatamodel; sourceTree = "<group>"; };
 		D3E5FE8529B05E890056065D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -32,8 +43,23 @@
 		D3E5FE8A29B05E890056065D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3E5FE9129B082260056065D /* Network.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Network.framework; path = System/Library/Frameworks/Network.framework; sourceTree = SDKROOT; };
 		D3E5FE9329B1C1F30056065D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
-		D3E5FE9629B1C5370056065D /* Bebida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bebida.swift; sourceTree = "<group>"; };
 		D3E5FE9929B2474F0056065D /* MonitorRed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonitorRed.swift; sourceTree = "<group>"; };
+		D3E5FE9F29B2E70A0056065D /* wine-bar-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wine-bar-100.png"; sourceTree = "<group>"; };
+		D3E5FEA129B2E8000056065D /* Coctel3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Coctel3.jpg; sourceTree = "<group>"; };
+		D3E5FEA229B2E8000056065D /* Coctel1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Coctel1.jpg; sourceTree = "<group>"; };
+		D3E5FEA329B2E8000056065D /* Coctel2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Coctel2.jpg; sourceTree = "<group>"; };
+		D3E5FEA829B2ECCA0056065D /* tropical-drink-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tropical-drink-48.png"; sourceTree = "<group>"; };
+		D3E5FEAF29B2F8E80056065D /* BebidaDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BebidaDataManager.swift; sourceTree = "<group>"; };
+		D3E5FEB229B322220056065D /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		D3E5FEB429B3DABD0056065D /* Bebida+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bebida+CoreDataClass.swift"; sourceTree = "<group>"; };
+		D3E5FEB529B3DABD0056065D /* Bebida+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bebida+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		D3E5FEB829B3F4660056065D /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		D3E5FEBA29B3F7CA0056065D /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Main.strings"; sourceTree = "<group>"; };
+		D3E5FEBB29B3F7CA0056065D /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		D3E5FEBD29B3F92C0056065D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D3E5FEBF29B3F9320056065D /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		D3E5FEC029B4154B0056065D /* BebidaJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BebidaJSON.swift; sourceTree = "<group>"; };
+		D3E5FEC229B473AC0056065D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3E5FEC329B473AD0056065D /* AVFoundation.framework in Frameworks */,
 				D3E5FE9229B082260056065D /* Network.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -68,11 +95,14 @@
 		D3E5FE7829B05E880056065D /* Practica2_Barman_ONC */ = {
 			isa = PBXGroup;
 			children = (
+				D3E5FEB129B3220C0056065D /* Helper */,
+				D3E5FEAE29B2F8340056065D /* Model */,
+				D3E5FEA729B2E8070056065D /* images */,
+				D3E5FE9C29B2AE110056065D /* Localizable */,
 				D3E5FE9829B247170056065D /* utils */,
-				D3E5FE9529B1C51D0056065D /* Modelo */,
 				D3E5FE7929B05E880056065D /* AppDelegate.swift */,
 				D3E5FE7B29B05E880056065D /* SceneDelegate.swift */,
-				D3E5FE7D29B05E880056065D /* ViewController.swift */,
+				D3E5FE7D29B05E880056065D /* BebidaDetalleViewController.swift */,
 				D3E5FE7F29B05E880056065D /* Main.storyboard */,
 				D3E5FE8529B05E890056065D /* Assets.xcassets */,
 				D3E5FE8729B05E890056065D /* LaunchScreen.storyboard */,
@@ -86,17 +116,11 @@
 		D3E5FE9029B082250056065D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D3E5FEC229B473AC0056065D /* AVFoundation.framework */,
+				D3E5FEB829B3F4660056065D /* WebKit.framework */,
 				D3E5FE9129B082260056065D /* Network.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D3E5FE9529B1C51D0056065D /* Modelo */ = {
-			isa = PBXGroup;
-			children = (
-				D3E5FE9629B1C5370056065D /* Bebida.swift */,
-			);
-			path = Modelo;
 			sourceTree = "<group>";
 		};
 		D3E5FE9829B247170056065D /* utils */ = {
@@ -105,6 +129,45 @@
 				D3E5FE9929B2474F0056065D /* MonitorRed.swift */,
 			);
 			path = utils;
+			sourceTree = "<group>";
+		};
+		D3E5FE9C29B2AE110056065D /* Localizable */ = {
+			isa = PBXGroup;
+			children = (
+				D3E5FEBE29B3F92C0056065D /* Localizable.strings */,
+			);
+			path = Localizable;
+			sourceTree = "<group>";
+		};
+		D3E5FEA729B2E8070056065D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				D3E5FEA229B2E8000056065D /* Coctel1.jpg */,
+				D3E5FEA329B2E8000056065D /* Coctel2.jpg */,
+				D3E5FE9F29B2E70A0056065D /* wine-bar-100.png */,
+				D3E5FEA829B2ECCA0056065D /* tropical-drink-48.png */,
+				D3E5FEA129B2E8000056065D /* Coctel3.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		D3E5FEAE29B2F8340056065D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D3E5FEC029B4154B0056065D /* BebidaJSON.swift */,
+				D3E5FEB429B3DABD0056065D /* Bebida+CoreDataClass.swift */,
+				D3E5FEB529B3DABD0056065D /* Bebida+CoreDataProperties.swift */,
+				D3E5FEAF29B2F8E80056065D /* BebidaDataManager.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D3E5FEB129B3220C0056065D /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				D3E5FEB229B322220056065D /* Helper.swift */,
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,6 +212,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"es-419",
 			);
 			mainGroup = D3E5FE6D29B05E880056065D;
 			productRefGroup = D3E5FE7729B05E880056065D /* Products */;
@@ -165,9 +229,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3E5FEA029B2E70A0056065D /* wine-bar-100.png in Resources */,
+				D3E5FEA529B2E8000056065D /* Coctel1.jpg in Resources */,
 				D3E5FE8929B05E890056065D /* LaunchScreen.storyboard in Resources */,
+				D3E5FEBC29B3F92C0056065D /* Localizable.strings in Resources */,
+				D3E5FEA429B2E8000056065D /* Coctel3.jpg in Resources */,
 				D3E5FE8629B05E890056065D /* Assets.xcassets in Resources */,
+				D3E5FEA629B2E8000056065D /* Coctel2.jpg in Resources */,
 				D3E5FE8129B05E880056065D /* Main.storyboard in Resources */,
+				D3E5FEA929B2ECCA0056065D /* tropical-drink-48.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,12 +248,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3E5FE9729B1C5370056065D /* Bebida.swift in Sources */,
-				D3E5FE7E29B05E880056065D /* ViewController.swift in Sources */,
+				D3E5FEB629B3DABD0056065D /* Bebida+CoreDataClass.swift in Sources */,
+				D3E5FEB329B322220056065D /* Helper.swift in Sources */,
+				D3E5FEB729B3DABD0056065D /* Bebida+CoreDataProperties.swift in Sources */,
+				D3E5FE7E29B05E880056065D /* BebidaDetalleViewController.swift in Sources */,
+				D3E5FEC129B4154B0056065D /* BebidaJSON.swift in Sources */,
 				D3E5FE7A29B05E880056065D /* AppDelegate.swift in Sources */,
 				D3E5FE9A29B2474F0056065D /* MonitorRed.swift in Sources */,
 				D3E5FE7C29B05E880056065D /* SceneDelegate.swift in Sources */,
 				D3E5FE9429B1C1F30056065D /* TableViewController.swift in Sources */,
+				D3E5FEB029B2F8E80056065D /* BebidaDataManager.swift in Sources */,
 				D3E5FE8429B05E880056065D /* Practica2_Barman_ONC.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -195,6 +269,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D3E5FE8029B05E880056065D /* Base */,
+				D3E5FEBA29B3F7CA0056065D /* es-419 */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -203,8 +278,18 @@
 			isa = PBXVariantGroup;
 			children = (
 				D3E5FE8829B05E890056065D /* Base */,
+				D3E5FEBB29B3F7CA0056065D /* es-419 */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		D3E5FEBE29B3F92C0056065D /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D3E5FEBD29B3F92C0056065D /* en */,
+				D3E5FEBF29B3F9320056065D /* es-419 */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -214,6 +299,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -274,6 +360,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -335,11 +422,11 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Practica2_Barman_ONC/Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Se empleará la camara para tomar fotos de la bebidas resultantes";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -365,11 +452,11 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Practica2_Barman_ONC/Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Se empleará la camara para tomar fotos de la bebidas resultantes";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
